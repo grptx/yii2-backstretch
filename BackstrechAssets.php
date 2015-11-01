@@ -17,7 +17,7 @@ use yii\web\AssetBundle;
  */
 class BackstrechAssets extends AssetBundle
 {
-    public $sourcePath = '@vendor/linchpinstudios/yii2-backstretch';
+    public $sourcePath = '@vendor/grptx/yii2-backstretch';
     public $js = [
         'js/jquery.backstretch.min.js',
     ];

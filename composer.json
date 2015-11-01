@@ -1,17 +1,17 @@
 {
-	"name": "linchpinstudios/yii2-backstretch",
+	"name": "grptx/yii2-backstretch",
 	"description": "Jquery Backstrech Plugin for the Yii2 framework",
 	"keywords": ["yii2", "Jquery", "Plugin", "Backstrech"],
 	"type": "yii2-extension",
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/linchpinstudios/yii2-backstretch/issues",
-		"source": "https://github.com/linchpinstudios/yii2-backstretch"
+		"issues": "https://github.com/grptx/yii2-backstretch/issues",
+		"source": "https://github.com/grptx/yii2-backstretch"
 	},
 	"authors": [
 		{
-			"name": "Josh Hagel",
-			"email": "joshhagel@linchpinstudios.com"
+			"name": "Roberto Rossetti",
+			"email": "info@enslavedcoder.org"
 		}
 	],
 	"require": {
@@ -19,7 +19,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"linchpinstudios\\backstretch\\": ""
+			"grptx\\backstretch\\": ""
 		}
 	}
 }
